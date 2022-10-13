@@ -6,3 +6,8 @@ vless://32567cc3-e313-42e5-8398-63b87cd8c2a8@us2.v2vless.xyz:443?path=%2Fvless&s
 vless://9b86fa15-999f-4567-b3b4-47db899d9dae@us1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=us1.v2vless.xyz&type=ws#sshocean-bgyuh
 vless://ef5c2ea1-bbfd-4f27-ba6a-99b6014ef56d@de2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=de2.v2vless.xyz&type=ws#sshocean-eruth
 vless://3957151b-c644-4fac-a212-de8ce64be7c8@de1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=de1.v2vless.xyz&type=ws#sshocean-xgdyu
+vless://2f4c9f8b-6a1c-4477-a5e2-e2407db11851@us3.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=us3.v2vless.xyz&type=ws#sshocean-ughdv
+
+vless://0e11994f-a788-4898-a055-6b19b1454787@de1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=de1.v2vless.xyz&type=ws#sshocean-rfcg
+
+vless://3c5e7821-39ee-4d28-901e-51fa685e00dc@us3.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=us3.v2vless.xyz&type=ws#sshocean-zdfe
